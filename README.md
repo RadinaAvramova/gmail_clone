@@ -2,7 +2,6 @@
 
 A new Flutter application to showcase how to build Gmail with Flutter.
 
-Video Tutorial: [YouTube](https://youtu.be/RWInOp5My3g)
 
 ## Screenshots
 
